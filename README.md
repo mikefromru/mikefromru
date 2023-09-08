@@ -1,4 +1,4 @@
-### Hi there, My name is Mike 👋
+### I am a web developer with expience more than 2 years in Python.
 
 <!--
 **mikefromru/mikefromru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">me
-   </a>
-</div>
